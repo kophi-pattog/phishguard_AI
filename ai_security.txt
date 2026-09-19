@@ -1,0 +1,1 @@
+AI security: treat user input and retrieved content as untrusted. Defend against prompt injection, sensitive-data disclosure, insecure output handling, excessive agency, and retrieval poisoning. Apply input validation, provenance, least privilege, monitoring, and output guardrails.

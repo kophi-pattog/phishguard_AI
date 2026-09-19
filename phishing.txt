@@ -1,0 +1,1 @@
+Phishing defense: suspicious messages often create urgency, request credentials, use unexpected links, or ask for financial action. Verify the sender and destination through an independent trusted channel. Do not disclose credentials or MFA codes.

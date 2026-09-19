@@ -1,0 +1,1 @@
+Incident response: preserve relevant evidence, report suspicious activity, isolate affected systems when appropriate, document timestamps and actions, and follow the organization's approved incident-response process.
